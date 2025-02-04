@@ -12,6 +12,7 @@ public class Main {
         int resultat2 = quinquenis(any1, any2);
         double resultatfinal = sou(fix, resultat1, resultat2, bonus5);
         System.out.print(resultatfinal);
+        //hola
     }
     public static double aplica_percentatge(double ventas, double porcentaje) {
         return (ventas*porcentaje/100);
